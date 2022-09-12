@@ -35,3 +35,15 @@ body, nav {
 .col-md-3 {
     margin-top: 10%;
 }
+
+.header-font {
+    font-family: 'Anton', sans-serif;
+}
+
+#font {
+    font-size: 4.2rem;
+}
+
+#font-2 {
+    font-size: 2rem;
+}
