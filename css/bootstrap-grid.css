@@ -14,6 +14,17 @@ body, nav {
     font-weight: bold;
 }
 
+.circle2 {
+    width: 18px;
+    height: 18px;
+    border-radius: 18px;
+    background-color: #E6563B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+}
 #circle2 {
     background-color: #EB9D3A;
 }
