@@ -14,7 +14,7 @@ body, nav {
     font-weight: bold;
 }
 
-.circle2 {
+.circle2 {   /* icon */
     width: 18px;
     height: 18px;
     border-radius: 18px;
@@ -22,9 +22,47 @@ body, nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
     font-weight: bold;
+    color: black;
 }
+
+.circle3 {  /* icon */
+    width: 18px;
+    height: 18px;
+    border-radius: 18px;
+    background-color: #EB9D3A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: black;
+}
+
+.circle4 {  /* icon */
+    width: 18px;
+    height: 18px;
+    border-radius: 18px;
+    background-color: #7CB06C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: black;
+}
+
+.circle5 {  /* icon */
+    width: 18px;
+    height: 18px;
+    border-radius: 18px;
+    background-color: #00ABA9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: black;
+}
+
+
 #circle2 {
     background-color: #EB9D3A;
 }
