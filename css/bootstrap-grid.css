@@ -126,3 +126,7 @@ body, nav, .backCards, #backgroundForCard{
 .fixedFont {
     font-family: sans-serif;
 }
+
+#backgroundForCard {
+    border: none;
+}
