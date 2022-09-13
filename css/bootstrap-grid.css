@@ -89,11 +89,11 @@ body, nav {
     background-color: #00ABA9;
 }
 
-.row {
-    width: 60%;
-    padding: auto;
-    margin: auto;
-}
+/*.row {*/
+/*    width: 60%;*/
+/*    padding: auto;*/
+/*    margin: auto;*/
+/*}*/
 
 .col-md-3 {
     margin-top: 10%;
