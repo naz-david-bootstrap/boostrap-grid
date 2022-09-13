@@ -1,7 +1,7 @@
 body, nav, .backCards, #backgroundForCard{
     background-color: rgb(240, 240, 240) ;
 }
-.circle1 {
+.circle1 {          /* This creates the circles*/
     width: 100px;
     height: 100px;
     border-radius: 100px;
@@ -84,10 +84,6 @@ a {
     background-color: #EB9D3A;
 }
 
-#fontP {
-    font-family: 'Abel', sans-serif;
-}
-
 #circle3 {
     background-color: #7CB06C;
 }
@@ -96,14 +92,8 @@ a {
     background-color: #00ABA9;
 }
 
-#centerCircle {
-    width: 60%;
-    padding: auto;
-    margin: auto;
-}
-
-.col-md-3 {
-    margin-top: 10%;
+.fontP {
+    font-family: 'Abel', sans-serif;
 }
 
 .header-font {
@@ -114,24 +104,26 @@ a {
     font-size: 4.2rem;
 }
 
-#font-2 {
+.font-2 {
     font-size: 2rem;
-}
-
-.left {
-    float: left;
-}
-
-.right {
-    float: right;
-}
-
-.backCards {
-    border: none;
 }
 
 .fixedFont {
     font-family: sans-serif;
+}
+
+
+#centerCircle {  /* This centers the circles */
+    width: 60%;
+    margin: auto;
+}
+
+.col-md-3 {
+    margin-top: 10%;
+}
+
+.backCards {
+    border: none;
 }
 
 #backgroundForCard {
