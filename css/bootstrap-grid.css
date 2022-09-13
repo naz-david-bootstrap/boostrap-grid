@@ -11,7 +11,9 @@ body, nav {
     justify-content: center;
     align-items: center;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
+    font-family: 'Anton', sans-serif;
+
 }
 
 .circle2 {   /* icon */
