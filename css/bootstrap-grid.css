@@ -111,3 +111,10 @@ body, nav {
     font-size: 2rem;
 }
 
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
