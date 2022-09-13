@@ -1,4 +1,4 @@
-body, nav {
+body, nav, .backCards, #backgroundForCard{
     background-color: rgb(240, 240, 240) ;
 }
 .circle1 {
@@ -118,3 +118,8 @@ body, nav {
 .right {
     float: right;
 }
+
+.backCards {
+    border: none;
+}
+
